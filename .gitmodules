@@ -1,0 +1,6 @@
+[submodule "projectshugo/themes/docport"]
+	path = projectshugo/themes/docport
+	url = https://github.com/vjeantet/hugo-theme-docport.git
+[submodule "projectshugo/leaguecurriculum/themes/docport"]
+	path = projectshugo/leaguecurriculum/themes/docport
+	url = https://github.com/vjeantet/hugo-theme-docport.git
